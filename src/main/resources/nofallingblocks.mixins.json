@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.haberno.nofallingblocks.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "FallingBlockMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
